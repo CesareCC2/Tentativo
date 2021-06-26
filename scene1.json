@@ -1,0 +1,59 @@
+{
+    "context": {
+        "UnitOfMeasureScale": 0.001,
+        "Zup": false,
+        "RepoPath": ""
+    },
+    "scene": [
+        "right_hand",
+        "left_hand"
+    ],
+    "assets": [
+        {
+            "id": "right_hand",
+            "position": [
+                474.119,
+                562.13,
+                0
+            ],
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
+                    "unit": 1
+                }
+            ]
+        },
+        {
+            "id": "left_hand",
+            "position": [
+                674.847,
+                563.477,
+                0
+            ],
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb",
+                    "unit": 1
+                }
+            ]
+        }
+    ],
+    "cameras": [
+    
+        {
+        "id": "camera.1",
+        "type": "FlyCamera",
+        "position": [
+            550,
+            560,
+            1500
+        ],
+        "rotation": [
+            0,
+            3.14159,
+            0
+        ],
+        "speed": 8
+    }
+    ]    
+}
