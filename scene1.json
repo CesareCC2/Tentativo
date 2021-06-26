@@ -18,7 +18,7 @@
             ],
             "representations": [
                 {
-                    "file": "https://resources.oreilly.com/examples/9781849691727/raw/master/1727_10/models/geometry/sphere.json",
+                    "file": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF-Binary/Box.glb",
                     "unit": 1
                 }
             ]
